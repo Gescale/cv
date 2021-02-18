@@ -114,6 +114,10 @@ p {
   color: #61dbfb;
 }
 
+.pink-icon {
+color: pink;
+}
+
 .icon :hover {
   color: orange;
   margin-bottom: 1rem;
